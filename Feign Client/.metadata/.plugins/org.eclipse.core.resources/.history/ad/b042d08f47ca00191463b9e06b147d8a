@@ -1,0 +1,3 @@
+feign.hystrix.enabled=true
+
+app.url=https://jsonplaceholder.typicode.com
